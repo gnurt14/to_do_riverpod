@@ -5,7 +5,6 @@ import 'package:go_router/go_router.dart';
 import 'package:intl/intl.dart';
 import 'package:to_do_riverpod/config/routes/route_location.dart';
 import 'package:to_do_riverpod/data/data.dart';
-import 'package:to_do_riverpod/providers/date_provider.dart';
 import 'package:to_do_riverpod/providers/providers.dart';
 import 'package:to_do_riverpod/utils/app_alerts.dart';
 import 'package:to_do_riverpod/utils/helpers.dart';
